@@ -1,4 +1,4 @@
-# Tindog - project 
-Primeiro projeto utilizando HTML, CSS e Bootstrap.
+# Tindog - projeto em andamento 
+
 
 
