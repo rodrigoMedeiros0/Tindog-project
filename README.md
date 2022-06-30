@@ -6,13 +6,15 @@
 ![parte3](https://user-images.githubusercontent.com/97979883/176727052-4afba4f0-a521-417f-9fba-29ba436792e4.JPG)
 ![parte4](https://user-images.githubusercontent.com/97979883/176727059-e6848f05-f536-48b1-be83-f5475c10e972.JPG)
 
-# Portfolio
 
-Site feito utilizando Html, Css e Bootstrap. 
-
-## 🔨 Funcionalidades do projeto
+# 🔨 Funcionalidades do projeto
 
 Um site de página inicial que fornece detalhes do aplicativo ao usuário final, como a descrição do site, onde baixar o aplicativo, uma seção que exibe o feedback dos clientes e diferentes planos e assinaturas.
+
+
+## 💻 Tecnologias
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ## ✔️ Técnicas utilizadas
