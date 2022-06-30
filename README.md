@@ -8,7 +8,7 @@
 
 # Portfolio
 
-Site foi criado com Html, Css e Bootstrap. 
+Site feito utilizando Html, Css e Bootstrap. 
 
 ## 🔨 Funcionalidades do projeto
 
