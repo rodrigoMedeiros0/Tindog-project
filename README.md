@@ -21,7 +21,7 @@ Landing page que fornece informações sobre o aplicativo Tindog, onde baixá-lo
 
 As técnicas utilizadas pra isso são:
 
-- `.navbar`: é usado no projeto a classe navbar do Bootstrap para tornar a barra de navegção mais elegante e responsiva;
+- `.navbar`: é usado no projeto a classe navbar do Bootstrap para tornar a barra de navegação mais elegante e responsiva;
 - `.container-fluid`: é uma classe do Bootstrap para o container utilizar a largura total, abrangendo toda a largura da janela de visualização;
 - `font google`: fontes do Google para utilizar fontes além das padrões;
 - `grid`: o sistema grid do Bootstrap usa vários containers, linhas e colunas para arranjar e alinhar conteúdo;
