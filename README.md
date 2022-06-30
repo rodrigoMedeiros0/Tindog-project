@@ -30,7 +30,7 @@ As técnicas utilizadas pra isso são:
 - `h1, h2, h3, h4, h5, h6`: utilizando esses seletores através da vírgula, deixou o código mais fácil de ler. além de economizar linhas;
 - `card`: a classe card é um contêiner de conteúdo flexível e extensível, que inclui opções para cabeçalhos, rodapés e ampla variedade de conteúdo;
 - `font awesome`: site usado para os ícones que foram utilizados nos botões de download e footer;
-- `media query`: ajudar o site para torna-lo mais responsivo;
+- `media query`: ajudar o site a ser mais reponsivo;
 
 ## 📁 Acesso ao projeto
 
