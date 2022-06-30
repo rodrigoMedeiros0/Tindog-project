@@ -4,11 +4,12 @@
 
 # Portfolio
 
-Site de portfolio do Sr. Rodrigo Medeiros para divulgar seu trabalho como Desenvolvedor Front-end. 
+Esse site foi criado utilizando Html, Css e Bootstrap. 
 
 ## 🔨 Funcionalidades do projeto
 
-Este projeto é site como o Tinder, mas para cachochirrinhos. Esse site foi criado utilizando Html, Css e Bootstrap.  
+Um site de página inicial que fornece detalhes do aplicativo ao usuário final, como a descrição do site, onde baixar o aplicativo, uma seção que exibe o feedback dos clientes e diferentes planos e assinaturas.
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
