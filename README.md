@@ -3,8 +3,8 @@
 ![tindog](https://user-images.githubusercontent.com/97979883/176716210-6fe91ccf-e2f3-4eea-a69f-2b4512134a83.JPG) 
 ![parte1](https://user-images.githubusercontent.com/97979883/176727032-321e53bb-7538-4c69-a129-d294f26297ff.JPG)
 ![parte2](https://user-images.githubusercontent.com/97979883/176727046-f2157af0-99ff-412d-8fdd-9b2ac3a5b980.JPG)
-![parte3](https://user-images.githubusercontent.com/97979883/176727052-4afba4f0-a521-417f-9fba-29ba436792e4.JPG)
-![parte4](https://user-images.githubusercontent.com/97979883/176727059-e6848f05-f536-48b1-be83-f5475c10e972.JPG)
+![parte3](https://user-images.githubusercontent.com/97979883/176731303-6ad23634-2acd-4ed0-9df8-e27b4ce6b932.JPG)
+![parte4](https://user-images.githubusercontent.com/97979883/176731089-ff83a380-7c81-4727-8354-376dfdb48c4f.png)
 
 
 # 🔨 Funcionalidades do projeto
