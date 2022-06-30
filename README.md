@@ -21,7 +21,7 @@ As técnicas utilizadas pra isso são:
 
 - `.navbar`: é usado no projeto a classe navbar do Bootstrap e usar formas para tornar a barra de navegção mais elegante e responsiva;
 - `.container-fluid`: é usado para um container utilizar a largura total, abrangendo toda a largura da janela de visualização;
-- `font google: fontes do Google para utilizar fontes além das padrões;
+- `font google`: fontes do Google para utilizar fontes além das padrões;
 - `grid`: o sistema grid Bootstrap usa vários containers, linhas e colunas para arranjar e alinhar conteúdo;
 - `z-index`: é um sistema do css para ajudar na profundidade dos elementos, alterando a ordem deixando certo elemento atrás ou na frente de um outro elemento;
 - `carousel`: a classe carrossel é uma apresentação de slides para percorrer uma série de conteúdo;
