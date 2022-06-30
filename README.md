@@ -9,7 +9,7 @@
 
 # 🔨 Funcionalidades do projeto
 
-Um site de página inicial que fornece detalhes do aplicativo ao usuário final, como a descrição do site, onde baixar o aplicativo, uma seção que exibe o feedback dos clientes e diferentes planos e assinaturas.
+Landing page que fornece informações sobre o aplicativo Tindog, onde baixá-lo, feedbacks dos clientes e diferentes planos de assinatura.
 
 
 ## 💻 Tecnologias
@@ -21,15 +21,15 @@ Um site de página inicial que fornece detalhes do aplicativo ao usuário final,
 
 As técnicas utilizadas pra isso são:
 
-- `.navbar`: é usado no projeto a classe navbar do Bootstrap e usar formas para tornar a barra de navegção mais elegante e responsiva;
-- `.container-fluid`: é usado para um container utilizar a largura total, abrangendo toda a largura da janela de visualização;
+- `.navbar`: é usado no projeto a classe navbar do Bootstrap para tornar a barra de navegção mais elegante e responsiva;
+- `.container-fluid`: é uma classe do Bootstrap para o container utilizar a largura total, abrangendo toda a largura da janela de visualização;
 - `font google`: fontes do Google para utilizar fontes além das padrões;
-- `grid`: o sistema grid Bootstrap usa vários containers, linhas e colunas para arranjar e alinhar conteúdo;
+- `grid`: o sistema grid do Bootstrap usa vários containers, linhas e colunas para arranjar e alinhar conteúdo;
 - `z-index`: é um sistema do css para ajudar na profundidade dos elementos, alterando a ordem deixando certo elemento atrás ou na frente de um outro elemento;
 - `carousel`: a classe carrossel é uma apresentação de slides para percorrer uma série de conteúdo;
 - `h1, h2, h3, h4, h5, h6`: utilizando esses seletores através da vírgula, deixou o código mais fácil de ler. além de economizar linhas;
 - `card`: a classe card é um contêiner de conteúdo flexível e extensível, que inclui opções para cabeçalhos, rodapés e ampla variedade de conteúdo;
-- `font awesome`: site usado para os ícones que foram utilizados nos botões de donlowad e footer;
+- `font awesome`: site usado para os ícones que foram utilizados nos botões de download e footer;
 - `media query`: ajudar o site para torna-lo mais responsivo;
 
 ## 📁 Acesso ao projeto
